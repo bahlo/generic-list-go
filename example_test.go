@@ -7,7 +7,7 @@ package list_test
 import (
 	"fmt"
 
-	list "github.com/bahlo/generic-container-list"
+	list "github.com/bahlo/generic-list-go"
 )
 
 func Example() {

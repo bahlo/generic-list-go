@@ -1,3 +1,3 @@
-module github.com/bahlo/generic-container-list
+module github.com/bahlo/generic-list-go
 
 go 1.18
